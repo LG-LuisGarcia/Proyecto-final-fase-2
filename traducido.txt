@@ -1,0 +1,13 @@
+entero principal (){
+cadena continuar;
+cout<<"Desea continuar s/n:";
+cin>>continuar;
+cambiar(continuar=="si")inicio de cambiar
+cout<<"el programa si funciona"<<finalizar;
+fin de cambiar
+inicio de caso 1
+caso 1:()
+      salir(1);
+fin de caso 1
+retorno 0;
+}
